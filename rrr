@@ -1,0 +1,3 @@
+a=[ram,raja,ramarao]
+for ram in a:
+    print("the new name".fetch())
